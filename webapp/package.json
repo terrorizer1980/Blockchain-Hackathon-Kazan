@@ -21,6 +21,6 @@
     "solc": "^0.4.16",
     "truffle-artifactor": "^2.1.5",
     "truffle-contract": "^2.0.5",
-    "web3": "^0.20.1"
+    "web3": "^0.20.7"
   }
 }
